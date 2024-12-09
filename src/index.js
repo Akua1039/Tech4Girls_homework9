@@ -23,7 +23,7 @@
     num4.style.backgroundColor = ("purple"); // Purple
   
     const num5 = document.getElementById('num5');
-    num5.innerHTML = 'Yes I did it!! I manipulated the DOM and styled my elements 🥳🥳🥳';
+    num5.innerHTML = 'Yes I did it!! I manipulated the DOM and styled my elements 😍😍😍😍';
     num5.style.backgroundColor = ("Black"); // Black
     num5.style.color = ("white");
   });
