@@ -2,7 +2,6 @@
     header.style.backgroundColor =("blue");
     header.style.color = ("white");
 
-    document.addEventListener('DOMContentLoaded', () => {
     const num1 = document.getElementById('num1');
     num1.innerHTML = 'I know now what the DOM is 🙌';
     num1.style.backgroundColor = ("grey"); // Light gray
@@ -26,5 +25,5 @@
     num5.innerHTML = 'Yes I did it!! I manipulated the DOM and styled my elements 😍😍😍😍';
     num5.style.backgroundColor = ("Black"); // Black
     num5.style.color = ("white");
-  });
+  
   
